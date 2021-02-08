@@ -1,2 +1,2 @@
-# cursoAngular2
+# cursoAngular
 Created with CodeSandbox
